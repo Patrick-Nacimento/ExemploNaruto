@@ -19,7 +19,7 @@ public class Personagem {
         return nome;
     }
     
-    public void setCla (){
+    public void setCla (String cla){
         this.cla = cla;
         
     }
